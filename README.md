@@ -1,5 +1,5 @@
 ### Hi 👋 I am Lalit!
-
+## Lalit Shanker Choudhary
 <!--
 **lalithub/lalithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
